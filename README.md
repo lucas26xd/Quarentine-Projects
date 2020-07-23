@@ -9,13 +9,13 @@
 ## Links para os meus pequenos e simples projetos desenvolvidos durante o período de quarentena do novo coronavírus.
 
 ## Lista dos projetos
-- [#Quarentine Project #0 - Brilho automático](#QP0)
-- [#Quarentine Project #1 - Jogo da Forca e Velha](#QP1)
-- [#Quarentine Project #2 - Posso sair de casa?](#QP2)
-- [#Quarentine Project #3 - Caixa jogo de tabuleiro](#QP3)
-- [#Quarentine Project #4 - Extensão WhatsApp Web](#QP4)
-- [#Quarentine Project #5 - Urna eletrônica](#QP5)
-- [#Quarentine Project #6 - Personalização do README](#QP6)
+- ### [#Quarentine Project #0 - Brilho automático](#QP0)
+- ### [#Quarentine Project #1 - Jogo da Forca e Velha](#QP1)
+- ### [#Quarentine Project #2 - Posso sair de casa?](#QP2)
+- ### [#Quarentine Project #3 - Caixa jogo de tabuleiro](#QP3)
+- ### [#Quarentine Project #4 - Extensão WhatsApp Web](#QP4)
+- ### [#Quarentine Project #5 - Urna eletrônica](#QP5)
+- ### [#Quarentine Project #6 - Personalização do README](#QP6)
 
 # <a name="QP0"></a>**Quarentine Project #0** - Ajuste automático de brilho de acordo com a iluminação externa.
 ### A partir de um sensor LDR conectado a uma Arduino, capta-se a intensidade luminosa da ambiente e altera proporcionalmente o brilho da tela do computador.
